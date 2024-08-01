@@ -173,4 +173,6 @@ int main()
 *Switch Case Statement*: Used in some languages to handle multiple conditions, mimicked in Python using dictionaries.
 
 ## Output:-
-### 1.
+### 1.![Screenshot 2024-08-01 235012](https://github.com/user-attachments/assets/f4a105ef-e649-43e9-828a-bce6708f789d)
+
+### 2.
