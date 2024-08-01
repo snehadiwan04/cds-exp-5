@@ -1,6 +1,6 @@
 # Experiment-5
 ## Aim -
-c++ programs for decision making statements
+To study and implement C++ decision making statements.
 ## Theory -
 Decision-making statements control the flow of a program based on conditions. Key types include:
 ### 1. *If-Else Statement*:
@@ -179,4 +179,6 @@ int main()
 
 ### 3.![Screenshot 2024-08-01 235733](https://github.com/user-attachments/assets/f8920bf6-23ef-4bd7-b7b2-7ca30607ac31)
 
-### 4.
+### 4.![Screenshot 2024-08-02 000321](https://github.com/user-attachments/assets/3b9384ef-2413-4a4b-9d3b-adcbfe70103b)
+## Conclusion:-
+Decision-making statements in programming control the flow of execution based on conditions. The if-else statement executes different code blocks depending on whether a condition is true or false, while the nested if else statement allows for multiple conditions to be checked in sequence. The switch statement provides a way to select one of many code blocks to execute based on the value of an expression, ideal for handling discrete values. calculator helps in doing mathematical operations.
