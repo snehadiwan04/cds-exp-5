@@ -120,13 +120,13 @@ using namespace std;
 int main()
 {
     int choice;
-    cout << "1. Monday" << endl
-         << "2. Tuesday" << endl
-         << "3. Wednesday" << endl
-         << "4. Thursday" << endl
-         << "5. Friday" << endl
-         << "6. Saturday" << endl
-         << "7. Sunday" << endl;
+    cout << "1. " << endl
+         << "2. " << endl
+         << "3." << endl
+         << "4. " << endl
+         << "5. " << endl
+         << "6. " << endl
+         << "7. " << endl;
     cout << "Enter your choice: ";
     cin >> choice;
     
