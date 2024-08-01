@@ -175,4 +175,6 @@ int main()
 ## Output:-
 ### 1.![Screenshot 2024-08-01 235012](https://github.com/user-attachments/assets/f4a105ef-e649-43e9-828a-bce6708f789d)
 
-### 2.
+### 2.![Screenshot 2024-08-01 235421](https://github.com/user-attachments/assets/e7fb911f-23a2-44fa-ba36-ffdb9e4e0d12)
+
+### 3.
