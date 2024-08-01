@@ -177,4 +177,6 @@ int main()
 
 ### 2.![Screenshot 2024-08-01 235421](https://github.com/user-attachments/assets/e7fb911f-23a2-44fa-ba36-ffdb9e4e0d12)
 
-### 3.
+### 3.![Screenshot 2024-08-01 235733](https://github.com/user-attachments/assets/f8920bf6-23ef-4bd7-b7b2-7ca30607ac31)
+
+### 4.
