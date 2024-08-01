@@ -1,7 +1,7 @@
 // sneha diwan
 // 23070123126
 // entc b2 
-// experiment 3 d
+// experiment 5 d
 #include<iostream>
 using namespace std;
 
