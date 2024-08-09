@@ -1,6 +1,9 @@
 # Experiment-5
 ## Aim -
 To study and implement C++ decision making statements.
+## Apparatus -
+Online compiler (programiz)
+
 ## Theory -
 Decision-making statements control the flow of a program based on conditions. Key types include:
 ### 1. *If-Else Statement*:
